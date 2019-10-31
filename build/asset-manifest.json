@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.693a9b5f.chunk.css",
+    "main.js": "/static/js/main.972769e3.chunk.js",
+    "main.js.map": "/static/js/main.972769e3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.90933df5.chunk.js": "/static/js/2.90933df5.chunk.js",
+    "static/js/2.90933df5.chunk.js.map": "/static/js/2.90933df5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d25b191bfccd0a4f9221dbd573effd90.js": "/precache-manifest.d25b191bfccd0a4f9221dbd573effd90.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.693a9b5f.chunk.css.map": "/static/css/main.693a9b5f.chunk.css.map",
+    "static/media/DeepPavlov.png": "/static/media/DeepPavlov.13c4e31c.png",
+    "static/media/logo.png": "/static/media/logo.872931c9.png"
+  }
+}
